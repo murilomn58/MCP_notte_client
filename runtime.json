@@ -1,0 +1,5 @@
+{
+  "entrypoint": "python notte_mcp_server.py",
+  "mcp_version": "1.0",
+  "language": "python"
+}
